@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="youlexuan-cart-web" />
+        <module name="youlexuan-search-web" />
+        <module name="youlexuan-pojo" />
+        <module name="youlexuan-seckill-interface" />
+        <module name="youlexuan-user-web" />
+        <module name="youlexuan-page-service" />
+        <module name="youlexuan-portal-web" />
+        <module name="youlexuan-order-service" />
+        <module name="youlexuan-search-interface" />
+        <module name="youlexuan-content-service" />
+        <module name="youlexuan-pay-interface" />
+        <module name="youlexuan-solr-util" />
+        <module name="youlexuan-sellergoods-service" />
+        <module name="youlexuan-user-service" />
+        <module name="youlexuan-seckill-web" />
+        <module name="youlexuan-sms-service" />
+        <module name="youlexuan-pay-service" />
+        <module name="youlexuan-search-service" />
+        <module name="youlexuan-sellergoods-interface" />
+        <module name="youlexuan-task-service" />
+        <module name="youlexuan-page-interface" />
+        <module name="youlexuan-order-interface" />
+        <module name="youlexuan-cart-interface" />
+        <module name="youlexuan-page-web" />
+        <module name="youlexuan-manager-web" />
+        <module name="youlexuan-common" />
+        <module name="youlexuan-seckill-service" />
+        <module name="youlexuan-user-interface" />
+        <module name="youlexuan-dao" />
+        <module name="youlexuan-shop-web" />
+        <module name="youlexuan-content-interface" />
+        <module name="youlexuan-cart-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="pinyougou-content-interface" target="1.8" />
+      <module name="youlexuan-mail-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
